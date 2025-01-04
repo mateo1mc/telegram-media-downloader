@@ -6,6 +6,12 @@
 This Python script downloads all media files from a specified Telegram group or channel using the Telethon library. The downloaded files are saved in a designated folder, with a count of the downloaded items displayed in the console.
 
 
+
+
+## Warning ⚠️
+
+This script is for educational purposes only. Using this script with your personal Telegram account may violate Telegram's Terms of Service and result in your account being banned. Use it responsibly and consider creating a dedicated test account if necessary. <br>⚠️<b>The author is not responsible for any misuse of this script.</b>⚠️
+
 ## Requirements
 
 1. Python 3.7 or later installed on your system.
