@@ -19,7 +19,7 @@ This Python script downloads all media files from a specified Telegram group or 
 
 ## Features
 
-- Downloads all media files (e.g., images, videos) from a specified Telegram group or channel.
+- Downloads all media files (e.g., images, videos, audios, documents, gifs) from a specified Telegram group or channel.
 - Saves media files to a directory called `Media`. The folder will be created automatically if it doesn’t exist.
 - Displays the progress and total count of downloaded files.
 
